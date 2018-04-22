@@ -360,7 +360,6 @@ class THERMOSTAT {
             }
 
             var body = JSON.stringify({ "value": value });
-            self.log(body);
             self.putContent('/device/' + self.id + '/setpoint/', body)
             .then((data) => {
                 self.log(self.name + " targettemp - " + value)

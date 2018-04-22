@@ -1,5 +1,5 @@
 # homebridge-terneo
-Homebridge plugin for Terneo termostats http://terneo.ua/
+Homebridge plugin for Terneo thermostats http://terneo.ua/
 
 # Installation
 
