@@ -20,7 +20,7 @@ Homebridge plugin for Terneo thermostats http://terneo.ua/
 
 Configuration sample:
 
- ```
+ ```json
  {
      "bridge": {
          "name": "Homebridge",
