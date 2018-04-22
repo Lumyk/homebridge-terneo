@@ -1,0 +1,15 @@
+{
+    "bridge": {
+        "name": "Homebridge",
+        "username": "08:6A:E5:5E:D7:01",
+        "port": 51827,
+        "pin": "031-45-154"
+    },
+    "platforms": [
+        {
+            "platform": "TerneoThermostat",
+            "email": "terneo@example.com",
+            "password": "my terneo password"
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 {
   "name": "homebridge-terneo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Homebridge plugin for Terneo termostats http://terneo.ua/",
   "main": "index.js",
   "scripts": {
