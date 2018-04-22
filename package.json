@@ -1,0 +1,27 @@
+{
+  "name": "homebridge-terneo",
+  "version": "1.0.0",
+  "description": "Homebridge plugin for Terneo termostats http://terneo.ua/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lumyk/homebridge-terneo.git"
+  },
+  "keywords": [
+    "homebridge",
+    "terneo",
+    "termostat"
+  ],
+  "author": "Evgeny Kalashnikov <lumyk@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lumyk/homebridge-terneo/issues"
+  },
+  "homepage": "https://github.com/Lumyk/homebridge-terneo#readme",
+  "dependencies": {
+    "async": "2.6.0"
+  }
+}
