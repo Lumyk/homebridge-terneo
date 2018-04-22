@@ -11,6 +11,7 @@
     "url": "git+https://github.com/Lumyk/homebridge-terneo.git"
   },
   "keywords": [
+    "homebridge-plugin",
     "homebridge",
     "terneo",
     "termostat"
@@ -23,5 +24,9 @@
   "homepage": "https://github.com/Lumyk/homebridge-terneo#readme",
   "dependencies": {
     "async": "2.6.0"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
   }
 }
